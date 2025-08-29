@@ -7,6 +7,8 @@ int main()
 {
     std::cout << "Hello World!\n";
 
+} //you forgot to close it buddy
+
     //asdfasdf
 
 
